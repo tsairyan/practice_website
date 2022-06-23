@@ -1,0 +1,63 @@
+<!doctype html>
+
+<html lang = "en">
+
+<head>
+    <meta charset = "utf-8">
+
+    <title> Ryan Tsai </title>
+
+
+</head>
+
+<body>
+    <div class = "header">
+        <ul>
+            <li>Ryan Tsai </li>
+        </ul>
+
+        <ul>
+                <li> Resume</li>
+                <li> Projects</li>
+                <li> About me</li>
+        </ul>
+    </div>
+
+    <div class = "text">Wewbsite Placeholder Text </div>
+    <div class = "text">More subtext </div>
+    <button> Learn More </button>
+    <img src = "">
+    <div class = "title"> Ryan T. </div>
+
+    <div class = "stuff">
+        <div class = "text">Project 1 </div>
+    </div>
+    <div class = "stuff">
+        <div class = "text">Project 2 </div>
+    </div>
+    <div class = "stuff">
+        <div class = "text">Project 3 </div>
+    </div>
+    <div class = "stuff">
+        <div class = "text">Project 4 </div>
+    </div>
+
+
+
+    <div class = "misc">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus non enim praesent elementum facilisis. Ultrices sagittis orci a scelerisque purus.
+        -Lorem, Ipsum Dolor
+    </div>  
+
+    <div class = "signup">
+        <div class = "two">Call to action! It's time! </div>
+            <div class = "two">Learn more by clicking the GitHub</div>
+            <div class = "github"> <button> GitHub </button></div>
+    </div>
+
+
+    <div class = "footer">
+        Created by Ryan Tsai using HTML and CSS 
+    </div>
+</body>
+</html>
