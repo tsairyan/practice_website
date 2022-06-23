@@ -1,0 +1,58 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+* {
+    font-family: Roboto;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: white;
+
+}
+
+.header, .subheader, .footer{
+    background-color: #1F2937;
+
+
+}
+
+.header {
+
+}
+.subheader {
+    Border: solid 1px red;
+    height: 250px;
+}
+
+.texts {
+    color: #F9FAF8;
+}
+
+
+.name {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+ul {
+    list-style: none;
+    color: #F9FAF8;
+
+}
+
+.stuff {
+    height: 250px;
+}
+.misc {
+    background-color: #E5E7EB;
+    height: 250px;
+}
+.signup {
+    height: 125px;
+}
+.footer {
+    height: 75px;
+    color: #F9FAF8;
+}

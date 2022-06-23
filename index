@@ -6,14 +6,14 @@
     <meta charset = "utf-8">
 
     <title> Ryan Tsai </title>
-
+    <link rel = "stylesheet"  href = "styles.css">
 
 </head>
 
 <body>
     <div class = "header">
         <ul>
-            <li>Ryan Tsai </li>
+            <div class = "name"> <li>Ryan Tsai</li> </div>
         </ul>
 
         <ul>
@@ -22,12 +22,16 @@
                 <li> About me</li>
         </ul>
     </div>
+    <div class = "subheader">
+        <div class = "texts">Website Placeholder Text </div>
+        <div class = "texts">More subtext </div>
+        <button> Learn More </button>
+        <img src = "">
+    </div>
 
-    <div class = "text">Wewbsite Placeholder Text </div>
-    <div class = "text">More subtext </div>
-    <button> Learn More </button>
-    <img src = "">
-    <div class = "title"> Ryan T. </div>
+
+ 
+    <div class = "title"> Ryan T's Projects</div>
 
     <div class = "stuff">
         <div class = "text">Project 1 </div>
@@ -50,9 +54,11 @@
     </div>  
 
     <div class = "signup">
-        <div class = "two">Call to action! It's time! </div>
+        <div class = "box">
+            <div class = "two">Call to action! It's time! </div>
             <div class = "two">Learn more by clicking the GitHub</div>
             <div class = "github"> <button> GitHub </button></div>
+        </div>
     </div>
 
 
