@@ -12,21 +12,30 @@
 
 <body>
     <div class = "header">
-        <ul>
-            <div class = "name"> <li>Ryan Tsai</li> </div>
-        </ul>
 
-        <ul>
-                <li> Resume</li>
-                <li> Projects</li>
-                <li> About me</li>
+            <div class = "name"> Ryan Tsai </div>
+
+            <div class = "list">
+        <ul> 
+                <li> Resume</li> 
+                <li> Contact</li>
         </ul>
+            </div>
     </div>
+
+
     <div class = "subheader">
-        <div class = "texts">Website Placeholder Text </div>
-        <div class = "texts">More subtext </div>
-        <button> Learn More </button>
-        <img src = "">
+
+            <div class = "cool">
+                <div class = "subheadertitle">About Me </div>
+                <div class = "texts">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus non enim praesent elementum facilisis. Ultrices sagittis orci a scelerisque purus.
+                </div>
+                <button> Learn More </button>
+            </div>
+            <div class = "photo">
+            <img src = "./images/placeholder.png">
+            </div>
+        
     </div>
 
 
